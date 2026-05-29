@@ -55,5 +55,3 @@ Enter your email id: vamsi@example.com
 
 👤 Author
 Vamsi D
-Batch No: 25039_005
-Date: 22/01/2026
